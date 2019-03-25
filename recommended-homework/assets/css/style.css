@@ -215,15 +215,16 @@ font-family: 'Georgia', Times, Times New Roman, serif;
     z-index: 1;
 
   }
-  .pfimg :hover {
-    border: rgb(226, 57, 204);
+  .pfimg:hover {
+    border: solid 5px teal;
    
   }
  
-  .pfimg .active {
-    border: rgb(6, 238, 14);
+  .pfimg:active {
+    border: solid 5px rgb(2, 56, 56);
    
   }
+
   /*padding to about me content that it starts below heading*/
   .aboutme{
 padding-top: 25px;

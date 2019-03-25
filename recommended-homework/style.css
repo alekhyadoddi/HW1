@@ -220,10 +220,7 @@ font-family: 'Georgia', Times, Times New Roman, serif;
    
   }
  
-  .pfimg:active {
-    border: solid 5px rgb(2, 56, 56);
-   
-  }
+
   /*padding to about me content that it starts below heading*/
   .aboutme{
 padding-top: 25px;
