@@ -85,7 +85,7 @@ left: 0;
      position: relative;
      left: 12.75%;
      
-     overflow-y: scroll; 
+     
   }
   
   /*Style for hover types*/
@@ -294,6 +294,4 @@ input[type=submit]:active {
     color: #777777;
     font-size: 12px;
   }
-  .scrl{
-    overflow-y: scroll; 
-  }
+  
