@@ -58,11 +58,11 @@ height: 100%;
 background-color: #4aaaa5;
 color:white  ;
 float: left;
-
+padding-top:  20px;
 left: 0;
  height:100%;
  text-align: center;
- padding: 2%;
+ 
  font-family: 'Georgia', Times, Times New Roman, serif;
  font-size: 25px;
  position: relative;
@@ -113,8 +113,11 @@ left: 0;
 height: 40px;
 margin-top: 40px;
 font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-font-size:5pt;
+font-size:10pt;
 z-index: 3;
+text-align: center;
+padding-top: 20px;
+
   }
 /* section{
     height:100%;
